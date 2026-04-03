@@ -1,6 +1,6 @@
 site_name: sample_docs
 site_description: General team documentation template
-site_url: https://example.com/sample_docs/
+site_url: https://Mohammad-H93.github.io/sample-docs/
 
 nav:
   - Home: index.md
