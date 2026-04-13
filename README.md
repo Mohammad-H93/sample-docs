@@ -8,14 +8,8 @@ Simple example docs for MDX usage.
 
 ### 1. YouTube Embed
 
-Check out a short video on how to sync a Termite session with Grasshopper:
-<iframe width="560" height="315"
-  src="https://www.youtube-nocookie.com/embed/NXeyuxPIBfY"
-  title="Syncing Termite with Grasshopper"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_PPWWRV6gbA?si=HtvX682r954eHsYL" title="how to markdown" allowfullscreen></iframe>
+
 ---
 
 ### 2. Social Media Embed (Twitter/X)
